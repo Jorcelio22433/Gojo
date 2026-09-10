@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/DevTokyoVx/nazuna/main/dados/midias/menu.jpg"
+    src="https://files.catbox.moe/cv8xhl.jpg"
     width="500"
     height="420"
     style="border-radius: 50%; object-fit: cover;"
