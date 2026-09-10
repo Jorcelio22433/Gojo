@@ -83,7 +83,7 @@ async function checkRequirements() {
     await execAsync('git --version');
     printDetail('✅ Git encontrado.');
   } catch (error) {
-    printWarning('⚠️ Git não encontrado! É necessário para atualizar o Nazuna.');
+    printWarning('⚠️ Git não encontrado! É necessário para atualizar o GOJO.');
     if (isWindows) {
       printInfo('📥 Instale o Git em: https://git-scm.com/download/win');
     } else if (os.platform() === 'darwin') {
@@ -223,12 +223,7 @@ async function downloadUpdate() {
     printDetail('🔄 Clonando repositório...');
     let gitProcess;
     try {
-      gitProcess = exec(`git clone --depth 1 ${REPO_URL} "${TEMP_DIR}"`, (error) => {
-        if (error) {
-          printWarning(`❌ Falha ao clonar repositório: ${error.message}`);
-          reject(error);
-        }
-      });
+      gitProcess = exec(`git clone --depth 1 ${REPO_URL} "${TEMP_DIR}"`);
     } catch (execError) {
       printWarning(`❌ Falha ao iniciar processo Git: ${execError.message}`);
       throw new Error('Falha ao iniciar processo de download');
