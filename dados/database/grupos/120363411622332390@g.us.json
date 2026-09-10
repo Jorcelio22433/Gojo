@@ -1,0 +1,116 @@
+{
+  "mark": {},
+  "createdAt": "2026-09-08T11:21:54.125Z",
+  "groupName": "Novas amizades / stikers 👌🥰🔥",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "110617537056889@lid",
+      "msg": 3,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "sss",
+      "firstSeen": "2026-09-08T11:21:54.192Z",
+      "lastActivity": "2026-09-08T13:29:47.019Z"
+    },
+    {
+      "id": "228578830626937@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "KaLiPA O POPRIO 👽👻",
+      "firstSeen": "2026-09-08T11:23:17.108Z",
+      "lastActivity": "2026-09-08T11:35:52.302Z"
+    },
+    {
+      "id": "207881399972068@lid",
+      "msg": 4,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Rita",
+      "firstSeen": "2026-09-08T11:36:33.809Z",
+      "lastActivity": "2026-09-08T12:07:18.984Z"
+    },
+    {
+      "id": "170252503646387@lid",
+      "msg": 8,
+      "cmd": 0,
+      "figu": 4,
+      "pushname": "Mc Bravinho",
+      "firstSeen": "2026-09-08T11:36:49.414Z",
+      "lastActivity": "2026-09-08T14:36:13.739Z"
+    },
+    {
+      "id": "52996356485166@lid",
+      "msg": 42,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Merry",
+      "firstSeen": "2026-09-08T11:50:06.079Z",
+      "lastActivity": "2026-09-08T13:32:14.536Z"
+    },
+    {
+      "id": "171052005105674@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "thayz 99",
+      "firstSeen": "2026-09-08T11:51:11.154Z",
+      "lastActivity": "2026-09-08T11:51:11.154Z"
+    },
+    {
+      "id": "232843783442447@lid",
+      "msg": 2,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "~Lui S Lopes Felipe🩷",
+      "firstSeen": "2026-09-08T11:52:32.409Z",
+      "lastActivity": "2026-09-08T11:54:41.811Z"
+    },
+    {
+      "id": "112649106931755@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "Mairon🫥🤎",
+      "firstSeen": "2026-09-08T11:53:43.004Z",
+      "lastActivity": "2026-09-08T11:53:43.004Z"
+    },
+    {
+      "id": "228398509113510@lid",
+      "msg": 6,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Marta Chilaule",
+      "firstSeen": "2026-09-08T12:40:28.080Z",
+      "lastActivity": "2026-09-08T12:49:41.769Z"
+    },
+    {
+      "id": "76691573629055@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "snaider",
+      "firstSeen": "2026-09-08T12:48:09.589Z",
+      "lastActivity": "2026-09-08T12:48:09.589Z"
+    },
+    {
+      "id": "103939030663256@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "Zefito",
+      "firstSeen": "2026-09-08T14:00:13.244Z",
+      "lastActivity": "2026-09-08T14:00:13.244Z"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "mark": {},
+  "createdAt": "2026-09-07T21:55:52.657Z",
+  "groupName": "Group of footballers",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "128467471470811@lid",
+      "msg": 2,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "samuelburine",
+      "firstSeen": "2026-09-07T21:55:53.066Z",
+      "lastActivity": "2026-09-07T21:56:56.159Z"
+    }
+  ]
+}

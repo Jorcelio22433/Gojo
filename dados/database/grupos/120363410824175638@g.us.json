@@ -1,0 +1,53 @@
+{
+  "mark": {},
+  "createdAt": "2026-09-08T07:24:16.983Z",
+  "groupName": "Amizade em tons💫✨💯",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "18296611029022@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Cabequi Services Frank",
+      "firstSeen": "2026-09-08T07:35:12.710Z",
+      "lastActivity": "2026-09-08T07:35:12.710Z"
+    },
+    {
+      "id": "115582569570361@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "『SĂŁÜŢ』",
+      "firstSeen": "2026-09-08T07:38:29.696Z",
+      "lastActivity": "2026-09-08T07:38:29.696Z"
+    },
+    {
+      "id": "31925095915682@lid",
+      "msg": 7,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Shadow",
+      "firstSeen": "2026-09-08T08:08:58.600Z",
+      "lastActivity": "2026-09-08T11:40:08.344Z"
+    },
+    {
+      "id": "143079084396743@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Daniel Pinhanha⚽🥇",
+      "firstSeen": "2026-09-08T13:38:56.903Z",
+      "lastActivity": "2026-09-08T13:38:56.903Z"
+    }
+  ]
+}

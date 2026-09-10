@@ -1,0 +1,53 @@
+{
+  "mark": {},
+  "createdAt": "2026-09-09T16:08:33.628Z",
+  "groupName": "Amizades coloridas 🫀🥰😍",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "52051547570369@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Märîø",
+      "firstSeen": "2026-09-09T16:08:33.729Z",
+      "lastActivity": "2026-09-09T16:08:33.729Z"
+    },
+    {
+      "id": "210900627812451@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Nëlsön🍻😍",
+      "firstSeen": "2026-09-09T17:43:00.642Z",
+      "lastActivity": "2026-09-09T17:43:00.643Z"
+    },
+    {
+      "id": "15561438310594@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Monteiro 🇲🇿",
+      "firstSeen": "2026-09-09T18:10:52.273Z",
+      "lastActivity": "2026-09-09T18:10:52.273Z"
+    },
+    {
+      "id": "147446898417705@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "demetriodanielevaristo13",
+      "firstSeen": "2026-09-09T18:27:33.126Z",
+      "lastActivity": "2026-09-09T18:27:33.126Z"
+    }
+  ]
+}

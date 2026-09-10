@@ -1,0 +1,65 @@
+{
+  "mark": {},
+  "createdAt": "2026-09-08T05:54:57.148Z",
+  "groupName": "SÓ VIBES  🤣💯💋",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "264085509787809@lid",
+      "msg": 0,
+      "cmd": 5,
+      "figu": 0,
+      "pushname": "꧁B E I J O C A꧂🫀",
+      "firstSeen": "2026-09-08T05:54:57.195Z",
+      "lastActivity": "2026-09-08T08:37:23.809Z"
+    },
+    {
+      "id": "264433133711518@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Ayzh🤘💥",
+      "firstSeen": "2026-09-08T06:23:08.643Z",
+      "lastActivity": "2026-09-08T06:23:08.643Z"
+    },
+    {
+      "id": "267538529259603@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "YASSURA SMITH",
+      "firstSeen": "2026-09-08T07:48:22.816Z",
+      "lastActivity": "2026-09-08T07:48:22.816Z"
+    },
+    {
+      "id": "220177941668092@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Txutxuca 🥹",
+      "firstSeen": "2026-09-08T08:46:07.027Z",
+      "lastActivity": "2026-09-08T08:46:07.027Z"
+    },
+    {
+      "id": "169578479005909@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "KHARANI 🥹",
+      "firstSeen": "2026-09-08T22:47:12.317Z",
+      "lastActivity": "2026-09-08T22:47:12.326Z"
+    }
+  ],
+  "antilinkgp": true,
+  "antistatus": true,
+  "bemvindo": true
+}

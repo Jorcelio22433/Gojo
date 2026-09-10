@@ -1,0 +1,81 @@
+{
+  "mark": {},
+  "createdAt": "2026-09-08T05:43:27.699Z",
+  "groupName": "Amizades virtuais ❤️",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "264085509787809@lid",
+      "msg": 8,
+      "cmd": 9,
+      "figu": 0,
+      "pushname": "꧁B E I J O C A꧂🫀",
+      "firstSeen": "2026-09-08T05:43:27.768Z",
+      "lastActivity": "2026-09-08T08:39:22.447Z"
+    },
+    {
+      "id": "172435202678880@lid",
+      "msg": 19,
+      "cmd": 1,
+      "figu": 0,
+      "pushname": "Tio Barrigudo",
+      "firstSeen": "2026-09-08T07:59:25.574Z",
+      "lastActivity": "2026-09-08T08:23:49.985Z"
+    },
+    {
+      "id": "60027217903756@lid",
+      "msg": 4,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "💬Fabivegas❤️",
+      "firstSeen": "2026-09-08T08:39:58.569Z",
+      "lastActivity": "2026-09-08T08:40:45.005Z"
+    },
+    {
+      "id": "220177941668092@lid",
+      "msg": 4,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Txutxuca 🥹",
+      "firstSeen": "2026-09-08T08:41:57.613Z",
+      "lastActivity": "2026-09-08T08:44:26.133Z"
+    },
+    {
+      "id": "172533718450235@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "꧁𝙅𝙤𝙠𝙚𝙧꧂",
+      "firstSeen": "2026-09-08T10:41:50.050Z",
+      "lastActivity": "2026-09-08T10:41:50.050Z"
+    },
+    {
+      "id": "228449562132719@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "Ricardo",
+      "firstSeen": "2026-09-08T11:16:32.762Z",
+      "lastActivity": "2026-09-08T11:16:32.762Z"
+    },
+    {
+      "id": "39389547778119@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "✨C L E I T O N😜",
+      "firstSeen": "2026-09-08T12:51:51.572Z",
+      "lastActivity": "2026-09-08T12:51:51.578Z"
+    }
+  ],
+  "antilinkgp": true
+}

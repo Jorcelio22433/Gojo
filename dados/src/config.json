@@ -1,0 +1,21 @@
+{
+  "nomedono": "𝐌𝐀𝐒𝐓𝐄𝐑",
+  "numerodono": "258852931823",
+  "nomebot": "𝑮𝑶𝑱𝑶 𝑺𝑬𝑹𝑽𝑰𝑪𝑬",
+  "prefixo": "€",
+  "site_vex": "https://vexapi.com.br",
+  "apikey_vex": "SUAKEY",
+  "lidowner": "192067296882820@lid",
+  "github_ofc": "https://github.com/DevTokyoVx/nazuna",
+  "autor": "DevTokyoVx",
+  "repositorio": "nazuna",
+  "WA_WEB_VERSION": {
+    "aviso": "Não mexa aqui, pode afetar o funcionamento do BOT.",
+    "value": [
+      2,
+      3000,
+      1034740716
+    ]
+  },
+  "globalMode": true
+}

@@ -1,0 +1,53 @@
+{
+  "mark": {},
+  "createdAt": "2026-09-09T18:10:26.479Z",
+  "groupName": "🇳🇬Os Verdadeiros 🥷🏽",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "9475335426232@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Ørøchï 🚶🚬🇧🇷🇿🇦#031",
+      "firstSeen": "2026-09-09T18:10:26.527Z",
+      "lastActivity": "2026-09-09T18:10:26.527Z"
+    },
+    {
+      "id": "262156935262443@lid",
+      "msg": 2,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Catarina Quiúma",
+      "firstSeen": "2026-09-09T19:10:50.782Z",
+      "lastActivity": "2026-09-09T19:11:00.726Z"
+    },
+    {
+      "id": "92900612407342@lid",
+      "msg": 2,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "😏 H6 Stark 🦂♏",
+      "firstSeen": "2026-09-09T20:42:55.881Z",
+      "lastActivity": "2026-09-09T20:44:17.004Z"
+    },
+    {
+      "id": "8857078218925@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Mano Lary",
+      "firstSeen": "2026-09-09T21:18:57.486Z",
+      "lastActivity": "2026-09-09T21:18:57.486Z"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "mark": {},
+  "createdAt": "2026-09-08T21:05:32.032Z",
+  "groupName": "🤯🫯 Companhia das Bethas🚨💯",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "65782373458090@lid",
+      "msg": 2,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "•§jÜnïøR®§•",
+      "firstSeen": "2026-09-08T21:05:32.109Z",
+      "lastActivity": "2026-09-09T16:01:13.365Z"
+    },
+    {
+      "id": "47301145948298@lid",
+      "msg": 3,
+      "cmd": 0,
+      "figu": 2,
+      "pushname": "¥© Evaristo Miguel ¥©",
+      "firstSeen": "2026-09-09T16:00:57.843Z",
+      "lastActivity": "2026-09-09T23:07:36.374Z"
+    },
+    {
+      "id": "81111011082256@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "New star",
+      "firstSeen": "2026-09-09T19:41:37.951Z",
+      "lastActivity": "2026-09-09T19:41:37.951Z"
+    },
+    {
+      "id": "255478194000084@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "Hunter",
+      "firstSeen": "2026-09-09T19:44:35.916Z",
+      "lastActivity": "2026-09-09T19:44:35.917Z"
+    },
+    {
+      "id": "57725081936013@lid",
+      "msg": 2,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "Firmino 💯",
+      "firstSeen": "2026-09-09T22:42:32.852Z",
+      "lastActivity": "2026-09-09T23:07:05.127Z"
+    },
+    {
+      "id": "108650442059827@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Pablo Scorpion 🦂",
+      "firstSeen": "2026-09-09T22:44:48.253Z",
+      "lastActivity": "2026-09-09T22:44:48.253Z"
+    }
+  ]
+}

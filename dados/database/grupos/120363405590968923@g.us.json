@@ -1,0 +1,35 @@
+{
+  "mark": {},
+  "createdAt": "2026-09-09T19:14:31.374Z",
+  "groupName": "👿Os incríveis 😈",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "140407413432322@lid",
+      "msg": 8,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Fayzal Tech Store Acessór",
+      "firstSeen": "2026-09-09T19:14:31.428Z",
+      "lastActivity": "2026-09-09T19:26:22.220Z"
+    },
+    {
+      "id": "220023322841217@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "𝑮𝒆̂𝒏𝒄𝒊𝒐🫠",
+      "firstSeen": "2026-09-09T20:10:01.839Z",
+      "lastActivity": "2026-09-09T20:10:01.839Z"
+    }
+  ]
+}

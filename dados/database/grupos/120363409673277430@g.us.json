@@ -1,0 +1,83 @@
+{
+  "mark": {},
+  "createdAt": "2026-09-08T05:38:08.356Z",
+  "groupName": "𝑴𝒂𝒔𝑻𝑬𝑹 𝑩𝑶𝑻",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "264085509787809@lid",
+      "msg": 5,
+      "cmd": 2,
+      "figu": 0,
+      "pushname": "꧁B E I J O C A꧂🫀",
+      "firstSeen": "2026-09-08T05:38:08.735Z",
+      "lastActivity": "2026-09-08T12:13:40.502Z"
+    },
+    {
+      "id": "192067296882820@lid",
+      "msg": 19,
+      "cmd": 19,
+      "figu": 3,
+      "pushname": "Mas",
+      "firstSeen": "2026-09-08T05:38:14.994Z",
+      "lastActivity": "2026-09-09T19:59:11.293Z"
+    },
+    {
+      "id": "218356841975998@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Usuário Desconhecido",
+      "firstSeen": "2026-09-08T08:42:11.308Z",
+      "lastActivity": "2026-09-08T08:42:11.325Z"
+    },
+    {
+      "id": "249302114926643@lid",
+      "msg": 3,
+      "cmd": 2,
+      "figu": 1,
+      "pushname": "♛[🌵]",
+      "firstSeen": "2026-09-08T11:50:52.382Z",
+      "lastActivity": "2026-09-08T12:13:53.835Z"
+    },
+    {
+      "id": "178512463925293@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "Jorcelio",
+      "firstSeen": "2026-09-09T16:44:18.346Z",
+      "lastActivity": "2026-09-09T16:44:18.346Z"
+    },
+    {
+      "id": "167276846252077@lid",
+      "msg": 13,
+      "cmd": 10,
+      "figu": 2,
+      "pushname": "~Anércia~",
+      "firstSeen": "2026-09-09T19:23:41.673Z",
+      "lastActivity": "2026-09-09T19:42:52.890Z"
+    }
+  ],
+  "antilinkgp": true,
+  "bemvindo": true,
+  "schedule": {
+    "closeTime": "00:30",
+    "lastRun": {
+      "close": {
+        "date": "2026-09-09",
+        "time": "00:30"
+      }
+    }
+  },
+  "antistatus": true
+}

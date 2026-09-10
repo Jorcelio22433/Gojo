@@ -1,0 +1,44 @@
+{
+  "mark": {},
+  "createdAt": "2026-09-08T06:15:18.987Z",
+  "groupName": "FC MOBILE ⚽🎖️🏆🏅⚽🥇🥈🥉",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "145531259101360@lid",
+      "msg": 4,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "DEIDARA",
+      "firstSeen": "2026-09-08T06:15:19.105Z",
+      "lastActivity": "2026-09-08T09:29:36.986Z"
+    },
+    {
+      "id": "264085509787809@lid",
+      "msg": 1,
+      "cmd": 1,
+      "figu": 0,
+      "pushname": "꧁B E I J O C A꧂🫀",
+      "firstSeen": "2026-09-08T09:28:43.527Z",
+      "lastActivity": "2026-09-08T11:07:04.899Z"
+    },
+    {
+      "id": "139239014564022@lid",
+      "msg": 2,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "CIENTÍFICO",
+      "firstSeen": "2026-09-08T11:06:36.773Z",
+      "lastActivity": "2026-09-08T11:07:49.521Z"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "mark": {},
+  "createdAt": "2026-09-08T05:38:28.107Z",
+  "groupName": "Tropa do 4G/5G 📶",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "226955332984916@lid",
+      "msg": 20,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Chanila",
+      "firstSeen": "2026-09-08T05:38:28.148Z",
+      "lastActivity": "2026-09-08T14:25:10.645Z"
+    }
+  ]
+}

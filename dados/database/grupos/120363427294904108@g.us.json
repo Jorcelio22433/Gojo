@@ -1,0 +1,35 @@
+{
+  "mark": {},
+  "createdAt": "2026-09-08T21:03:50.599Z",
+  "groupName": "Só papo",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "252072117157947@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "ISAÍAS🤡🩷💫 ÉVA SITOE🌟💜💫",
+      "firstSeen": "2026-09-08T21:03:50.637Z",
+      "lastActivity": "2026-09-08T21:03:50.637Z"
+    },
+    {
+      "id": "70918953017571@lid",
+      "msg": 2,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Ivan Figura Ii",
+      "firstSeen": "2026-09-09T18:21:05.668Z",
+      "lastActivity": "2026-09-09T18:25:18.698Z"
+    }
+  ]
+}
