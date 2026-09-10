@@ -14,41 +14,21 @@
   
   <img src="https://img.shields.io/badge/VERSÃO-v10.2.2-blue?style=for-the-badge" alt="Versão" />
   
-  <img src="https://img.shields.io/github/stars/DevTokyoVx/nazuna?style=for-the-badge&color=yellow&label=Estrelas" alt="Estrelas" />
+  <img src="https://img.shields.io/github/stars/Jorcelio22433/Gojo?style=for-the-badge&color=yellow&label=Estrelas" alt="Estrelas" />
   
-  <img src="https://img.shields.io/github/forks/DevTokyoVx/nazuna?style=for-the-badge&color=blue&label=Forks" alt="Forks" />
+  <img src="https://img.shields.io/github/forks/Jorcelio22433/Gojo?style=for-the-badge&color=blue&label=Forks" alt="Forks" />
 </p>
 
 <p align="center"><i>Projeto em desenvolvimento contínuo e ativo.</i></p>
-
-<p align="center">
-
- <a href="https://chat.whatsapp.com/HjvsGqKioNsI4AAyh52f36?s=cl&p=a&mlu=4">
-    <img src="https://img.shields.io/badge/Grupo%20Oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Grupo Oficial WhatsApp" />
-  </a>
- <a href="https://www.youtube.com/@vexsolutionstech" target="_blank">
-  <img src="https://img.shields.io/badge/Canal%20Oficial-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Canal Oficial YouTube" />
-</a>
-  <a href="https://whatsapp.com/channel/0029Vb7bjAK7j6gEdyp6g13D">
-    <img src="https://img.shields.io/badge/Canal%20Vex%20Tech%20Solutions-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Canal Vex Tech Solutions" />
-  </a>
-  <a href="https://whatsapp.com/channel/0029Vb5yayN6rsQmbg82PW0s">
-    <img src="https://img.shields.io/badge/Canal%20Nazuna%20Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Canal Nazuna Bot Oficial" />
-  </a>
-</p>
 
 ---
 
 ## 📚 Sumário
 
 - [🆕 Novidades da Última Atualização](#-novidades-da-última-atualização)
-- [📢 Continuidade do Projeto](#-continuidade-do-projeto)
 - [📊 O Legado em Números](#-o-legado-em-números)
 - [❓ Perguntas Frequentes](#-perguntas-frequentes)
 - [⚙️ Instalação no Termux](#️-instalação-no-termux)
-- [💸 Vale a pena pagar a API?](#-vale-a-pena-pagar-a-api)
-- [👥 Contribuidores](#-contribuidores)
-- [💖 Agradecimento à Comunidade](#-agradecimento-à-comunidade)
 - [📜 Termos de Uso](#-termos-de-uso)
 
 ---
@@ -56,7 +36,7 @@
 ## 🆕 Novidades da Última Atualização
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VERSÃO-v10.2.1-blue?style=for-the-badge" alt="v10.2.2" />
+  <img src="https://img.shields.io/badge/VERSÃO-v10.2.2-blue?style=for-the-badge" alt="v10.2.2" />
 </p>
 
 <details open>
@@ -64,7 +44,7 @@
 
 <br>
 
-- corrigir IA da NVidia (modo assistente nazuna)
+- corrigir IA da NVidia (modo assistente GOJO)
 </details>
 
 <details open>
@@ -96,23 +76,6 @@
 </details>
 
 ---
-## 📢 Continuidade do Projeto
-
-Este projeto foi **oficialmente descontinuado pelo criador original (hiudy)**.
-
-No entanto, o desenvolvimento não parou. O projeto foi assumido pelo dev **Tokyo**, que agora detém o controle e os direitos sobre o código, dando continuidade à Nazuna Bot.
-
-Atualmente, o bot segue em **desenvolvimento ativo**, recebendo atualizações, melhorias e correções, além de permanecer **open source para toda a comunidade**.
-
-<p align="center">
-  <a href="https://github.com/DevTokyoVx/nazuna">
-    <img src="https://img.shields.io/badge/Projeto%20Atual-Dev%20Tokyo-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-> A Nazuna continua viva 🚀 — agora com uma nova fase, novos updates e foco na comunidade.
-
----
 
 ## 📊 O Legado em Números
 
@@ -122,22 +85,16 @@ Atualmente, o bot segue em **desenvolvimento ativo**, recebendo atualizações, 
 
 | Métrica | Valor |
 |---------|-------|
-| ⭐ Estrelas | ![Stars](https://img.shields.io/github/stars/DevTokyoVx/nazuna?style=flat-square&color=yellow) |
-| 🍴 Forks | ![Forks](https://img.shields.io/github/forks/DevTokyoVx/nazuna?style=flat-square&color=blue) |
-| 📝 Commits | ![Commits](https://img.shields.io/github/commit-activity/t/DevTokyoVx/nazuna?style=flat-square&color=purple) |
-| 💾 Tamanho do Repo | ![Size](https://img.shields.io/github/repo-size/DevTokyoVx/nazuna?style=flat-square&color=orange) |
-| 🐞 Issues Resolvidas | ![Closed Issues](https://img.shields.io/github/issues-closed/DevTokyoVx/nazuna?style=flat-square&color=red) |
-| 🔄 Pull Requests | ![PRs](https://img.shields.io/github/issues-pr-closed/DevTokyoVx/nazuna?style=flat-square&color=brightgreen) |
-| 🌐 Linguagem Principal | ![Language](https://img.shields.io/github/languages/top/DevTokyoVx/nazuna?style=flat-square&color=teal) |
-| 🕒 Primeiro Commit | ![Created](https://img.shields.io/github/created-at/DevTokyoVx/nazuna?style=flat-square&color=lightgrey) |
+| ⭐ Estrelas | ![Stars](https://img.shields.io/github/stars/Jorcelio22433/Gojo?style=flat-square&color=yellow) |
+| 🍴 Forks | ![Forks](https://img.shields.io/github/forks/Jorcelio22433/Gojo?style=flat-square&color=blue) |
+| 📝 Commits | ![Commits](https://img.shields.io/github/commit-activity/t/Jorcelio22433/Gojo?style=flat-square&color=purple) |
+| 💾 Tamanho do Repo | ![Size](https://img.shields.io/github/repo-size/Jorcelio22433/Gojo?style=flat-square&color=orange) |
+| 🐞 Issues Resolvidas | ![Closed Issues](https://img.shields.io/github/issues-closed/Jorcelio22433/Gojo?style=flat-square&color=red) |
+| 🔄 Pull Requests | ![PRs](https://img.shields.io/github/issues-pr-closed/Jorcelio22433/Gojo?style=flat-square&color=brightgreen) |
+| 🌐 Linguagem Principal | ![Language](https://img.shields.io/github/languages/top/Jorcelio22433/Gojo?style=flat-square&color=teal) |
+| 🕒 Primeiro Commit | ![Created](https://img.shields.io/github/created-at/Jorcelio22433/Gojo?style=flat-square&color=lightgrey) |
 
 </div>
-
-<p align="center">
-  <img src="https://count.getloli.com/@nazuninha-bot?name=nazuninha-bot&theme=booru-lewd&padding=8&offset=0&align=top&scale=2&pixelated=1&darkmode=1" alt="Visitas" />
-  <br/>
-  <sub>Total de visitas ao repositório</sub>
-</p>
 
 ---
 
@@ -146,7 +103,7 @@ Atualmente, o bot segue em **desenvolvimento ativo**, recebendo atualizações, 
 <details>
   <summary><strong>💰 É pago?</strong></summary>
 
-Não. A Nazuna Bot é totalmente gratuita e open source para a comunidade.
+Não. O GOJO Service é totalmente gratuito e open source para a comunidade.
 
 Você paga pela API caso queira usar alguns outros comandos do bot.
 </details>
@@ -154,7 +111,7 @@ Você paga pela API caso queira usar alguns outros comandos do bot.
 <details>
   <summary><strong>🛠️ O projeto ainda recebe atualizações?</strong></summary>
 
-Sim. O projeto continua em desenvolvimento ativo sob manutenção do Tokyo.
+Sim. O projeto continua em desenvolvimento ativo.
 </details>
 
 <details>
@@ -166,7 +123,7 @@ Sim, desde que o WhatsApp seja compatível com multi-dispositivos.
 <details>
   <summary><strong>☁️ Posso hospedar em VPS?</strong></summary>
 
-Sim. A Nazuna funciona normalmente em VPS Linux, Pterodactyl e hospedagens Node.js.
+Sim. O GOJO funciona normalmente em VPS Linux, Pterodactyl e hospedagens Node.js.
 </details>
 
 <details>
@@ -193,7 +150,6 @@ Sim. Todo o código permanece aberto para estudos e contribuições.
 7️⃣ Salve o arquivo, reinicie o bot e desfrute dos comandos de dono!
 </details>
 
-
 <details>
   <summary><strong>*️⃣ Como alterar o prefixo do bot?</strong></summary>
 
@@ -207,10 +163,8 @@ Sim. Todo o código permanece aberto para estudos e contribuições.
 
 3️⃣ O símbolo na frente do comando prefix é o novo prefixo que vai ser aplicado
 
-
 4️⃣ Pronto! Prefixo do bot alterado com sucesso.
 </details>
-
 
 <details>
   <summary><strong>💸 Como ativar minha chave de API?</strong></summary>
@@ -272,14 +226,8 @@ Agora, se o seu bot possui muitos grupos ou utiliza bastante comandos como:
 <details>
   <summary><strong>🔧 Como utilizar minha própria API no bot?</strong></summary>
 
-Nós não damos suporte a isso. O bot é um projeto open source e já vem integrado com a **Vex API** justamente para facilitar o uso dos usuários. Mas você pode colocar sua própria API no bot e usá-la perfeitamente.
+O bot é um projeto open source e já vem integrado com a **Vex API** para facilitar o uso. Você pode colocar sua própria API no bot e usá-la normalmente.
 
-</details>
-
-<details>
-  <summary><strong>🤝 Como contribuir?</strong></summary>
-
-Você pode abrir Pull Requests, Issues ou sugerir melhorias no repositório oficial.
 </details>
 
 ---
@@ -300,10 +248,10 @@ cd /sdcard
 
 ---
 
-### 2️⃣ Clone o repositório oficial da Nazuna
+### 2️⃣ Clone o repositório
 
 ```bash
-git clone https://github.com/DevTokyoVx/nazuna
+git clone https://github.com/Jorcelio22433/Gojo.git
 ```
 
 ---
@@ -311,7 +259,7 @@ git clone https://github.com/DevTokyoVx/nazuna
 ### 3️⃣ Entre na pasta do projeto
 
 ```bash
-cd /sdcard/nazuna
+cd /sdcard/Gojo
 ```
 
 ---
@@ -335,79 +283,16 @@ npm start
 
 <br>
 <p align="center">
-  <sub>✅ Pronto! A Nazuna Bot foi instalada com sucesso.</sub>
+  <sub>✅ Pronto! O GOJO Service foi instalado com sucesso.</sub>
 </p>
 
 </details>
 
 ---
 
-# 💸 Vale a pena pagar a API?
-
-**Sim!** A Vex API é o que destrava o potencial completo da Nazuna. Sem ela, o bot já funciona muito bem — mas com ela, você tem acesso a uma série de comandos poderosos de download, edição de imagem, música e muito mais.
-
-Confira abaixo todos os comandos que dependem da Vex API:
-
-<div align="center">
-
-| Comando | Descrição |
-|---------|-----------|
-| 🎵 `play` | Baixa um áudio com informações de um vídeo do YouTube |
-| 🎬 `playvid` | Baixa um vídeo diretamente do YouTube |
-| 📱 `tiktok` | Baixa vídeos do TikTok sem marca d'água |
-| 📸 `instagram` | Baixa fotos e vídeos do Instagram |
-| 📘 `facebook` | Baixa vídeos do Facebook |
-| 🎞️ `kwai` | Baixa vídeos do Kwai |
-| 📌 `pinterest` | Baixa imagens e vídeos do Pinterest |
-| ✂️ `removebg` | Remove o fundo de uma imagem automaticamente |
-| 🖼️ `canvas de welcome` | Gera uma imagem de boas-vindas personalizada para o grupo |
-| 🎤 `letra` | Busca a letra de uma música |
-| 🟢 `spotify download` | Baixa músicas diretamente do Spotify |
-| 🅰️ `logos 1 texto` | Gera logos estilizadas com um texto |
-| 🅱️ `logos 2 textos` | Gera logos estilizadas com dois textos |
-| 📃 `transcrever` | Converte áudios para texto |
-| 📑 `autotranscrever` | Detecta áudios no grupo e transforma rapidamente em textos |
-</div>
-
-> Acesse [vexapi.com.br/plans](https://vexapi.com.br/plans) e escolha o plano ideal para o seu uso.
-
----
-
-## 👥 Contribuidores
-
-<p align="center">Essas são as pessoas que ajudaram na construção da Nazuna no passado.</p>
-
-<p align="center">
-  <a href="https://github.com/DevTokyoVx/nazuna/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=DevTokyoVx/nazuna&columns=10&anon=1" />
-  </a>
-</p>
-
----
-
-## 💖 Agradecimento à Comunidade
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OBRIGADO-❤️-ff69b4?style=for-the-badge" />
-</p>
-
-A Nazuna teve início com o **Hiudy**, que criou a base do projeto e reuniu uma comunidade incrível ao redor dele.
-
-Atualmente, o projeto segue sob responsabilidade do **Tokyo**, que assumiu o controle e continua o desenvolvimento de forma independente, trazendo melhorias, correções e novas funcionalidades, mantendo tudo open source para a comunidade.
-
-Aos antigos contribuidores: fica o reconhecimento por tudo que ajudaram a construir até aqui.
-
-E para quem acompanha essa nova fase: **muito obrigado** por continuar apoiando o projeto. 🚀
-
-<p align="center">
-  <sub>Projeto original por <a href="https://github.com/hiudyy">Hiudy</a> • Atualmente mantido por Tokyo</sub>
-</p>
-
----
-
 ## 📜 Termos de Uso
 
-> Ao utilizar a Nazuna Bot, você concorda com os termos descritos abaixo.
+> Ao utilizar o GOJO Service, você concorda com os termos descritos abaixo.
 
 <details>
   <summary><strong>📌 Clique aqui para ler os Termos de Uso completos</strong></summary>
@@ -415,19 +300,10 @@ E para quem acompanha essa nova fase: **muito obrigado** por continuar apoiando 
 <br>
 
 ### 🔓 Uso Open Source
-A Nazuna Bot é um projeto **open source** e deve permanecer assim. O arquivo original **não pode ser comercializado**. Se você utilizou a Nazuna como base e realizou **diversas modificações**, criando essencialmente um bot diferente, aí sim você pode comercializar a sua versão.
+O GOJO Service é um projeto **open source**. O arquivo original **não pode ser comercializado**. Se você utilizou o GOJO como base e realizou **diversas modificações**, criando essencialmente um bot diferente, aí sim você pode comercializar a sua versão.
 
-### 🏠 Hospedagens Autorizadas
-Nenhuma hospedagem, além da **[Vex Hostinger](https://vexhost.com.br)**, tem permissão para disponibilizar a Nazuna Bot em uma aba de bots prontos. Não daremos suporte a bots comercializados dessa forma, pois isso vai contra os termos do projeto.
-
-> ✅ Fazer o **upload manual** da Nazuna em qualquer hospedagem para uso pessoal é **permitido**.
-
-### 🔄 Atualizações Oficiais
-Você pode clonar o repositório e modificar o projeto livremente, criando sua própria versão da Nazuna Bot como quiser.
-
-No entanto, essas modificações não devem ser divulgadas como uma versão oficial do projeto Nazuna, nem associadas ao repositório original, para evitar confusões ou mal-entendidos na comunidade.
-
-O repositório oficial da Nazuna Bot é mantido exclusivamente pelo DevTokyo, e apenas ele é responsável pelas versões oficiais e atualizações públicas do projeto.
+### 🔄 Atualizações
+Você pode clonar o repositório e modificar o projeto livremente, criando sua própria versão do GOJO Service como quiser.
 
 ### ⚠️ Isenção de Responsabilidade
 Não nos responsabilizamos caso seu número seja **banido do WhatsApp**. O WhatsApp está em constante atualização e proíbe cada vez mais o uso de bots em sua plataforma. Use com consciência e por sua conta e risco.
